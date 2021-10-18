@@ -13,6 +13,18 @@ img{
     width: 100%;
     height: auto;
 }
+
+h4{
+    font-size: 1.4rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.4rem;
+}
 #header{
     min-height: 450px;
     color: #fff;
@@ -49,6 +61,10 @@ img{
     padding: 80px 20px 0px 20px;
     width: 70%;
     margin: 0 auto;
+}
+
+.content-wrapper h1{
+    font-size: 3rem;
 }
 
 
@@ -88,29 +104,26 @@ img{
 }
 
 .card{
-    width: 280px;
+    width: 300px;
     min-height: 480px;
     background-color: #eaeaea;
     color: black;
     margin: 1em;
-    padding-bottom: 2em;
 }
 
 .img{
     width: 100%;
     height: 150px;
-    margin: 0 auto;
 }
 
 .card h2{
-    padding: 0  1em;
     padding-top: 2em;
     font-size: 1.4rem;
 }
 
-.card p{
-    padding: 1em 2em 0 2em;
-    line-height: 1.7;
+.para{
+    line-height: 1.5;
+    padding: 1em;
 }
 
 #section-c{
